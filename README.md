@@ -23,7 +23,7 @@ Play with a friend and enjoy the classic 3x3 grid challenge right in your browse
 ---
 
 ## 📬 Connect with me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-seraj-16a979283/)  
+- 💼 [LinkedIn](www.linkedin.com/in/md-s-14aa3127a)  
 - 📧 Gmail: **mdseraj628@gmail.com**  
 
 ---
