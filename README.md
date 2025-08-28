@@ -4,7 +4,7 @@ A simple and fun **Tic Tac Toe Game** built using **HTML, CSS, and JavaScript**.
 Play with a friend and enjoy the classic 3x3 grid challenge right in your browser.  
 
 ## 🚀 Live Demo  
-👉 [Play Now](https://seraj-tictactoe.netlify.app/)
+👉 [Play Now](https://radiant-seahorse-a7cfd5.netlify.app/)
 ---
 
 ## 🚀 Features
